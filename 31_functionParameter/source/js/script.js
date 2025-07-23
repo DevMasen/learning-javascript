@@ -25,7 +25,7 @@
 // 	// } else {
 // 	// 	alert('Odd!')
 // 	// }
-// 	x%2===0 ? alert('Even!') : alert('Odd!');   
+// 	x%2===0 ? alert('Even!') : alert('Odd!');
 // }
 
 // checkEvenOdd(2)
